@@ -4,6 +4,30 @@ using UnityEngine;
 
 public class task2 : MonoBehaviour
 {
+
+    string[] names ={
+        "Mario"
+        "Luigi"
+        "Peach"
+        "Bowser"
+        "Iggy"
+        "Morton"
+        "Lemmy"
+        "Ludwig"
+        "Roy"
+        "Wendy"
+        "Larry"
+        "Rosalina"
+        "Daisy"
+        "Yoshi"
+        "Geno"
+        "Mallow"
+        "Mack"
+        "Johnny"
+        "Booster"
+        "Smithy"
+    };
+
     // Start is called before the first frame update
     void Start()
     {
@@ -15,4 +39,6 @@ public class task2 : MonoBehaviour
     {
         
     }
+
+
 }
